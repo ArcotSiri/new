@@ -1,0 +1,61 @@
+.header{
+	background: url(https://www.freewpheaders.com/wp-content/gallery/lights/colorful-blurred-lights-website-header.jpg) 100% 100% no-repeat;
+
+}
+.divisions{
+	color: white;
+}
+.logo{
+	padding: 2% 0 1% 2%;
+	}
+.heading{
+	font-size: 150%;
+	padding: 0 0 0 20%;
+	color: bisque;
+}
+.actioncontainer input{
+	border-radius: 15px;
+	background-color: midnightblue;
+	color: mistyrose;
+	padding: 1%;
+	width: 250px;
+	border: none;
+
+}
+.actioncontainer input:hover{
+	background-color: mistyrose;
+	color: darkblue;
+	cursor: pointer;
+}
+.align{
+	padding-left: 7%;
+}
+.table{
+	table-layout: fixed;
+	width: 100%;
+	border-collapse: separate;
+	border-spacing: 5px;
+}
+.width{
+	width: 33%;
+	border: 2px solid saddlebrown;
+	padding: 15px 0 2px 50px;
+	background-color: pink;
+}
+.whole{
+	border: black;
+	width: 95%;
+	box-shadow: 5px 5px 5px 5px black;
+	padding: 2% 2% 2% 2%;
+	border-radius: 20px
+}
+.width:hover{
+	background-color: indianred;
+	color: yellow;
+}
+footer{
+			background-color: saddlebrown;
+			color: white;
+			text-align: center;
+			padding: 3px 4px 4px 3px;
+		}
